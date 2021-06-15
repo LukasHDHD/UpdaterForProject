@@ -1,6 +1,6 @@
 <Version: 1.04>
 #maps
 /data/Map054.json https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/Map054.json
-/data/Map[03].json  https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/Map[03].json
+/data/Map[03].json https://github.com/LukasHDHD/UpdaterForProject/edit/main/Map%5B03%5D.json
 #img
 <End of Version>
