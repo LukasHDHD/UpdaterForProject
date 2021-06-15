@@ -3,4 +3,5 @@
 /data/Map054.json https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/Map054.json
 /data/Map003.json https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/Map003.json
 /data/Map016.json https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/Map016.json
+/data/Map047.json https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/Map047.json
 <End of Version>
