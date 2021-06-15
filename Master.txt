@@ -1,4 +1,4 @@
-<Version: 1.03>
+<Version: 1.04>
 #maps
 /data/Map054.json https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/Map054.json
 /data/Map[03].json  https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/Map[03].json
