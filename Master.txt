@@ -15,7 +15,16 @@
 /data/Actors.json https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/Actors.json
 /data/Map014.json https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/Map014.json
 /data/Map043.json https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/Map043.json
+#icons
 /icon/icon.png https://github.com/LukasHDHD/UpdaterForProject/blob/main/icon.png
+/icon/Artikel.png https://github.com/LukasHDHD/UpdaterForProject/blob/main/Artikel.png
+/icon/Ausrüsten.png https://github.com/LukasHDHD/UpdaterForProject/blob/main/Ausrüsten.png
+/icon/Fertigkeit.png https://github.com/LukasHDHD/UpdaterForProject/blob/main/Fertigkeit.png
+/icon/Spielende.png https://github.com/LukasHDHD/UpdaterForProject/blob/main/Spielende.png
+/icon/Formation.png https://github.com/LukasHDHD/UpdaterForProject/blob/main/Formation.png
+/icon/Optionen.png https://github.com/LukasHDHD/UpdaterForProject/blob/main/Optionen.png
+/icon/speichern.png https://github.com/LukasHDHD/UpdaterForProject/blob/main/speichern.png
+/icon/Status.png https://github.com/LukasHDHD/UpdaterForProject/blob/main/Status.png
 <End of Version>
 
 
