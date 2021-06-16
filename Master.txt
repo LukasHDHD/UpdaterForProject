@@ -1,4 +1,4 @@
-<Version: 3.1>
+<Version: 3.3>
 #maps
 /data/Map001.json https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/Map001.json
 /data/Map002.json https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/Map002.json
@@ -13,6 +13,7 @@
 /data/Map[02].json https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/Map%5B02%5D.json
 /data/Map[03].json https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/Map%5B03%5D.json
 /data/Actors.json https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/Actors.json
+/data/Map014.json https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/Map014.json
 <End of Version>
 
 
