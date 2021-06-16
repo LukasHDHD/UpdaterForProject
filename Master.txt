@@ -15,6 +15,7 @@
 /data/Actors.json https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/Actors.json
 /data/Map014.json https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/Map014.json
 /data/Map043.json https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/Map043.json
+/icon/icon.png https://github.com/LukasHDHD/UpdaterForProject/blob/main/icon.png
 <End of Version>
 
 
