@@ -9,4 +9,5 @@
 /data/System.json https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/System.json
 /data/MapInfos.json https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/MapInfos.json
 /data/Items.json https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/Items.json
+/data/Map[01].json https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/Map%5B01%5D.json
 <End of Version>
