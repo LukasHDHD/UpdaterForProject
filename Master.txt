@@ -1,4 +1,4 @@
-<Version: 9.00>
+<Version: 9.01>
 #maps
 /data/Map001.json https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/Map001.json
 /data/Map002.json https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/Map002.json
