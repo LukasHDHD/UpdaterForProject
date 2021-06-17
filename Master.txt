@@ -1,4 +1,4 @@
-<Version: 9.01>
+<Version: 11.00>
 #maps
 /data/Map001.json https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/Map001.json
 /data/Map002.json https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/Map002.json
@@ -15,7 +15,6 @@
 /data/Actors.json https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/Actors.json
 /data/Map014.json https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/Map014.json
 /data/Map043.json https://raw.githubusercontent.com/LukasHDHD/UpdaterForProject/main/Map043.json
-#icons
 <End of Version>
 
 
